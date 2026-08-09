@@ -95,11 +95,7 @@ Passionate **Senior Web Developer** with a Master's in Computer Science from PUC
 
 ---
 
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuneebKamal&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebKamal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+## ⚡ GitHub Activity Highlights:
+* **Primary Focus:** Backend Architectures & REST APIs
+* **Core Language:** PHP / Laravel
+* **Code Standard:** PSR-12 Compliant & Secure Webhooks Handling
