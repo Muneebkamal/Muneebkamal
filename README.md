@@ -1,101 +1,29 @@
-<div align="center">
-
-# Hi there, I'm Muneeb Ahmad Kamal 👋
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square" alt="Open to Opportunities">
-  <img src="https://img.shields.io/badge/Role-Senior%20Web%20Developer-blue?style=flat-square" alt="Senior Web Developer">
-  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-orange?style=flat-square" alt="Location">
-</p>
-
-</div>
-
----
-
-## 🚀 About Me:
-
-Passionate **Senior Web Developer** with a Master's in Computer Science from PUCIT[cite: 1]. Specializing in building robust backend architectures, real-time web applications, complex e-commerce integrations, and high-performance API ecosystems.
-
----
+# 💫 About Me:
+Passionate **Senior Web Developer** with a Master's in Computer Science from PUCIT[cite: 1]. Specializing in building robust backend architectures, real-time web applications, and complex e-commerce integrations using PHP 8.1, Laravel 9, WebSockets, IMAP/POP3, WooCommerce & Shopify APIs, NMI & Feedy Frezy Gateways[cite: 1]. Experienced across full-stack systems including databases (MySQL, MS SQL Server, Firebase) and scalable API pipelines.
 
 ## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muneebkamall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muneeb-kamal-05a803197) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Muneeb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muneebi740@gmail.com) 
 
-<p align="left">
-  <a href="mailto:muneebi740@gmail.com"><img src="https://img.shields.io/badge/Email-muneebi740%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://mastodon.social/@Muneeb"><img src="https://img.shields.io/badge/Mastodon-%40Muneeb-6364FF?style=flat-square&logo=mastodon&logoColor=white" alt="Mastodon"></a>
-</p>
+# 💻 Tech Stack & Frameworks:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) ![Shopify](https://img.shields.io/badge/shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white) ![WooCommerce](https://img.shields.io/badge/woocommerce-%2396588A.svg?style=for-the-badge&logo=woocommerce&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 💻 Tech Stack & Ecosystem:
-
-### Backend & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="APIs">
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" alt="WebSockets">
-  <img src="https://img.shields.io/badge/IMAP%2FPOP3-003B57?style=flat-square&logo=thunderbird&logoColor=white" alt="IMAP/POP3">
-</p>
-
-### Frontend & UI
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-### Databases & Storage
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
-</p>
-
-### E-Commerce, Integrations & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify">
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Payment_Gateways-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Gateways">
-</p>
-
----
-
-## 💼 Professional Experience:
-
+# 💼 Professional Experience:
 * **Senior Web Developer** @ Integet pk, Lahore (Aug 2022 – Present)[cite: 1]
 * **Junior Web Developer (Part-Time)** @ MBSoftSolutionLtd, Gujranwala (Mar 2024 – Sept 2024)[cite: 1]
 * **Internee Web Developer** @ Logixx Grid PVT Ltd, Bahawalpur (Jan 2022 – June 2022)[cite: 1]
 
----
+# 🚀 Featured Laravel Projects:
+* **LTCMS:** Developed a CMS using PHP 8.1 and Laravel 9, featuring an integrated helpdesk with IMAP/POP3, WooCommerce/Shopify sync via webhooks and APIs, Laravel WebSockets chat module, Google APIs, and third-party payment gateways (NMI, Feedy Frezy)[cite: 1].
+* **PrepCenter:** Built an online system for managing product orders, tracking inventory, and evaluating staff performance (including keystroke tracking and clock-in times) using PHP 8.1 and Laravel 9.1[cite: 1].
+* **Lottery Management System:** Created a full-stack system using PHP, Laravel, and AJAX for ticket sales, win tracking, user management, and secure payment processing[cite: 1].
+* **Lead Orders Management System:** Developed a Laravel-based system to handle lead orders, customer lead tracking, and streamlined fulfillment workflows[cite: 1].
 
-## 🚀 Featured Laravel Projects & API Integrations:
-
-* **[LTCMS (LiveTech CMS)](http://newltcms.livetechcms.com/)**[cite: 1]
-  * **Tech Stack:** PHP 8.1, Laravel 9, WebSockets, IMAP/POP3, WooCommerce & Shopify APIs, NMI & Feedy Frezy Gateways[cite: 1].
-  * **Overview:** Built an enterprise-grade CMS featuring an integrated helpdesk with full email ticket synchronization (IMAP/POP3), real-time product/order webhooks syncing with WooCommerce and Shopify[cite: 1], a real-time messaging chat framework using Laravel WebSockets[cite: 1], and secure transaction endpoints via multi-gateway processing (NMI, Feedy Frezy)[cite: 1].
-
-* **PrepCenter**[cite: 1]
-  * **Tech Stack:** PHP 8.1, Laravel 9.1, MySQL, Bootstrap[cite: 1].
-  * **Overview:** Engineered an inventory tracking and fulfillment operation platform featuring deep performance tracking mechanisms like real-time keystroke monitoring, automated clock-in scheduling, and itemized order fulfillment flows[cite: 1].
-
-* **Lottery Management System**[cite: 1]
-  * **Tech Stack:** PHP, Laravel, AJAX, MySQL, Bootstrap[cite: 1].
-  * **Overview:** Designed a secure full-stack lottery platform providing smooth ticket processing, live win tracking calculations, user account handling, and dynamic front-end asynchronous interfaces via AJAX[cite: 1].
-
-* **Lead Orders Management System**[cite: 1]
-  * **Tech Stack:** PHP, Laravel, MySQL[cite: 1].
-  * **Overview:** Developed specialized backend pipelines to capture, sort, and process consumer lead orders efficiently, reducing bottlenecks in tracking workflows and fulfillment[cite: 1].
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Muneebkamal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Muneebkamal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Muneebkamal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Muneebkamal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## ⚡ GitHub Activity Highlights:
-* **Primary Focus:** Backend Architectures & REST APIs
-* **Core Language:** PHP / Laravel
-* **Code Standard:** PSR-12 Compliant & Secure Webhooks Handling
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
