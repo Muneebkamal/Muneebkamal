@@ -26,25 +26,23 @@ Building robust backend architectures, real-time web applications, and complex e
 
 ---
 
-### 🛠️ Tech Stack & Frameworks
+### 🛠️ Tech Stack
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,js,vue,html,css,bootstrap,mysql,firebase,git,github,postman,vscode" />
+  </a>
+</p>
+
 ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Shopify](https://img.shields.io/badge/shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/woocommerce-%2396588A.svg?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 | ⚙️ Backend & APIs | 🖥️ Frontend | 🗄️ Databases | 🛒 E-Commerce & Gateways | 🔧 Tools |
 | :--- | :--- | :--- | :--- | :--- |
 | PHP 8.1 | Vue.js | MySQL | Shopify APIs & Webhooks | Git |
 | Laravel 9 | JavaScript | MS SQL Server | WooCommerce APIs & Webhooks | GitHub |
-| Laravel WebSockets | Bootstrap | Firebase | NMI Gateway | REST APIs |
+| Laravel WebSockets | Bootstrap | Firebase | NMI Gateway | Postman |
 | IMAP / POP3 | AJAX | | Feedy Frezy Gateway | Google APIs |
 
 ---
